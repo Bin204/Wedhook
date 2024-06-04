@@ -1,0 +1,2 @@
+# Wedhook
+Discord Wedhook
